@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenFrgmnt</string>
+
+    <string name="et_hint">Enter a Number</string>
+    <string name="submit_btn">Submit</string>
+    <string name="result">Result Area</string>
+    <string name="no_input_toast">Please enter a number 1st, then click SUBMIT</string>
+</resources>
